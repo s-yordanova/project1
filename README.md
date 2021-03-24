@@ -8,4 +8,3 @@ class HelloWorld {
     }
 }
 
-<!-- nai-nakraq da stani tova tupoto neshto -->
