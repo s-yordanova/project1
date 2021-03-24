@@ -6,3 +6,5 @@ class HelloWorld {
          System.out.println("Bye, World!");
     }
 }
+
+<!-- nai-nakraq da stani tova tupoto neshto -->
