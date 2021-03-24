@@ -5,6 +5,6 @@ class HelloWorld {
         System.out.println("Hello, World!");
         ///////////////////////////////////
 
-        pravq promqna
+        pravq promqna....
     }
 }
